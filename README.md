@@ -1,10 +1,2 @@
-# GitHub Stats Visualization
- 
-<a href="https://github.com/jstrieb/github-stats">
- 
-![](https://raw.githubusercontent.com/mridullpandey/readme_stats/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/mridullpandey/readme_stats/output/generated/languages.svg)
-
-</a>
-
-Generated using [jstrieb/github-stats](https://github.com/jstrieb/github-stats)
+![](https://github.com/mridullpandey/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/mridullpandey/github-stats/blob/master/generated/languages.svg)
